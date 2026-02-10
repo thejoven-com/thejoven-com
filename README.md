@@ -56,4 +56,4 @@ Whether building automated portfolio engines or analyzing real-time election odd
 
 ---
 
-**Would you like me to generate a quantitative strategy roadmap for Surmount or a specific technical overview of Kalshi's API integration?**
+
