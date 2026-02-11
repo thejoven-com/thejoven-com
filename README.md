@@ -39,6 +39,7 @@ Through the **OpenEvolve** engine, he has effectively bridged the gap between ra
 * **Project Alpha**: [PopStar: Agentic RL](https://devpost.com/software/popstar-agentic-rl-training)
 * **Terminal (X)**: [@max_xiong73047](https://x.com/max_xiong73047)
 * **GitHub**: [maxx06](https://github.com/maxx06)
+* **EXPLORER**: [SOL](http://solscan.io/account/5eLNw5UFuAxKsfvDCwJv3DNBCy4jEG6TVBqCPTyaFzsZ)
 
 ---
 
