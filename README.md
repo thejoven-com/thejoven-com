@@ -37,7 +37,7 @@ Through **Vibe Inc.** and **Ninja DAO**, he leads a movement that empowers creat
 * **Newsletter**: [Senseki (穿石) - 30k+ Readers](https://x.gd/HtTYI)
 * **Official IP**: [CryptoNinja Saki TV](https://cryptoninja-sakuya.xyz/)
 * **TCG**: [CNP Trading Card Game](https://cnptcg.monolithos.co.jp/)
-* **Terminal (X)**: [@IHayato](https://x.com/ihayato)
+* **Twitter (X)**: [@IHayato](https://x.com/ihayato)
 
 ---
 
